@@ -1,8 +1,8 @@
-version: 3.0.0
+version: 3.0.1
 files:
-  - url: YGM360-Setup-3.0.0.exe
-    sha512: YhQIinbQZQBrECpSu9VO3FQqdP/KlpPqlDgQgIM1FSoVkKIKx9qrGq2nT8lJwwth7sVYunNI6NVbVAdhIUA1Qw==
-    size: 158639791
-path: YGM360-Setup-3.0.0.exe
-sha512: YhQIinbQZQBrECpSu9VO3FQqdP/KlpPqlDgQgIM1FSoVkKIKx9qrGq2nT8lJwwth7sVYunNI6NVbVAdhIUA1Qw==
-releaseDate: '2025-12-09T09:56:19.523Z'
+  - url: YGM360-Setup-3.0.1.exe
+    sha512: rfGj0CU53hhGNLEFU0y1vB+QCLv4kqZX0vBYHyVA/cNTyoLOGJVWn3Gx7qdDjBtchDKfbZYYE+epS7vhFhyC1A==
+    size: 158781689
+path: YGM360-Setup-3.0.1.exe
+sha512: rfGj0CU53hhGNLEFU0y1vB+QCLv4kqZX0vBYHyVA/cNTyoLOGJVWn3Gx7qdDjBtchDKfbZYYE+epS7vhFhyC1A==
+releaseDate: '2025-12-09T15:11:09.892Z'
