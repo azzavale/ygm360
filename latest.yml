@@ -1,8 +1,0 @@
-version: 3.3.1
-files:
-  - url: YGM360-Setup-3.3.1.exe
-    sha512: WG3IkKdw/L8o3rOmh41zsOrxtGidsT6VmgGu7M1kQrFv+E87tZK35Bk/rl1zzu+PhD3dAt22NfkPGM+eS79zzw==
-    size: 160453810
-path: YGM360-Setup-3.3.1.exe
-sha512: WG3IkKdw/L8o3rOmh41zsOrxtGidsT6VmgGu7M1kQrFv+E87tZK35Bk/rl1zzu+PhD3dAt22NfkPGM+eS79zzw==
-releaseDate: '2025-12-18T22:49:20.753Z'
